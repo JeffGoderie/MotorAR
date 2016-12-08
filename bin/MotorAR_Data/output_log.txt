@@ -1,0 +1,153 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 620M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7609
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.517 seconds
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Google Drive\Documetns\TUDelft\BuildingSeriousGames\MotorARColoring\bin\MotorAR_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.419683 ms
+HandPool.ModelsParent needs to reference the parent transform of the hand models.  This transform should be a child of the LMHeadMountedRig transform.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1858 -> priority: 1 
+Numver of Taps: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_MIDDLE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finger TYPE_INDEX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colouring Zone Touched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Numver of Taps: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
