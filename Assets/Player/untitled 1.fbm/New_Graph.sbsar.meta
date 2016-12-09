@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 9fc8ce0a57f315a45844a9e740b5e3d7
-timeCreated: 1480884428
+timeCreated: 1481283372
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -168,13 +168,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -345,13 +345,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -522,13 +522,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -554,9 +554,9 @@ SubstanceImporter:
         texture: {instanceID: 0}
     - name: Output_Color
       value:
-        scalar[0]: 0
-        scalar[1]: 0.79686284
-        scalar[2]: 0.909804
+        scalar[0]: 0.5372549
+        scalar[1]: 0.5372549
+        scalar[2]: 0.5372549
         scalar[3]: 1
         texture: {instanceID: 0}
     - name: gradient_width
@@ -699,13 +699,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -876,13 +876,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -1053,13 +1053,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -1230,13 +1230,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -1407,13 +1407,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -1584,13 +1584,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -1761,13 +1761,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -1938,13 +1938,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -2115,13 +2115,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -2292,13 +2292,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -2469,13 +2469,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -2646,13 +2646,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 
@@ -2823,13 +2823,13 @@ SubstanceImporter:
       wrapMode: 0
     textureAssignments:
     - shaderProp:
-        name: _MainTex
-      material: {instanceID: 0}
-      baseUID: 738151867
-    - shaderProp:
         name: _BumpMap
       material: {instanceID: 0}
       baseUID: 737727713
+    - shaderProp:
+        name: _MainTex
+      material: {instanceID: 0}
+      baseUID: 738151867
     buildTargetSettings:
     - serializedVersion: 2
       buildTarget: 

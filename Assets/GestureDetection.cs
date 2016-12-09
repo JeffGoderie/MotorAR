@@ -22,7 +22,9 @@ public class GestureDetection : MonoBehaviour {
     [SerializeField]
     private float m_PalmRotationStartAngle;
     [SerializeField]
-    private float m_PalmRotationEndAngle;
+    private float m_PalmRotationEndAngleLow;
+    [SerializeField]
+    private float m_PalmRotationEndAngleTop;
     [SerializeField]
     private float m_PalmRotationTime;
 
@@ -77,7 +79,7 @@ public class GestureDetection : MonoBehaviour {
             {
                 m_PinchStarted = true;
                 m_PinchTimer = m_PinchTime;
-                Debug.Log("Pinch opened");
+                //Debug.Log("Pinch opened");
             }
             m_PinchTimer -= Time.deltaTime;
             if(m_PinchTimer < 0)
@@ -87,8 +89,9 @@ public class GestureDetection : MonoBehaviour {
            else if(m_PinchStarted && pinchStrength >= m_pinchCloseStrength)
             {
                 m_PinchStarted = false;
-                Debug.Log("Color Switched!");
+                //Debug.Log("Color Switched!");
                 if(controllerScript){
+                    //Debug.Log("Color Switched!!!!!");
                     controllerScript.switchColor();
                 }
             }
@@ -109,10 +112,10 @@ public class GestureDetection : MonoBehaviour {
             {
                 m_PalmRotationStarted = false;
             }
-            if ( m_PalmRotationStarted && palmRotationAngle >= m_PalmRotationEndAngle)
+            if ( m_PalmRotationStarted && palmRotationAngle >= m_PalmRotationEndAngleLow && palmRotationAngle <= m_PalmRotationEndAngleTop)
             {
                 m_PalmRotationStarted = false;
-                Debug.Log("Animation Activate!");
+                //Debug.Log("Animation Activate!");
                 if(controllerScript){
                     controllerScript.startAnimation();
                 }

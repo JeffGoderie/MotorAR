@@ -4,9 +4,9 @@ using System.Collections;
 public class ControllerScript : MonoBehaviour {
 
 	private static ColoringScript currentSelected;
-	public static GameObject drawingElements;
-	public static GameObject colorElements;
-	private static bool played = false;
+    public GameObject drawingElements;
+    public GameObject colorElements;
+    private static bool played = false;
 
 	public void setCurrentSelected(ColoringScript cs){
 		if(currentSelected){
