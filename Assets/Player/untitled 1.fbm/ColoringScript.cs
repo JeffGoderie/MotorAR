@@ -32,7 +32,8 @@ public class ColoringScript : MonoBehaviour {
 	            substance.SetProceduralFloat(floatRangeProperty, progress);
 				if(!started){
 					substance.SetProceduralColor(colorProperty, color);
-				}	            
+					started = true;
+				}        
 	            substance.RebuildTextures();
 	            break;
         	}
