@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 95aa7362827f1ca4493c07f8574bc3f3
+timeCreated: 1481022341
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Area7_2D.001
+    100002: Area7_2D.002
+    100004: Area7_2D.003
+    100006: Area7_2D.004
+    100008: Area7_2D.005
+    100010: Area7_2D.006
+    100012: Area7_2D.007
+    100014: Area7_2D.008
+    100016: Area7_2D.009
+    100018: Area7_2D.010
+    100020: Area7_2D.011
+    100022: Area7_2D.012
+    100024: Area7_2D.013
+    100026: Area7_2D.014
+    100028: Area7_2D.015
+    100030: Area7_2D.016
+    100032: //RootNode
+    100034: Edge
+    400000: Area7_2D.001
+    400002: Area7_2D.002
+    400004: Area7_2D.003
+    400006: Area7_2D.004
+    400008: Area7_2D.005
+    400010: Area7_2D.006
+    400012: Area7_2D.007
+    400014: Area7_2D.008
+    400016: Area7_2D.009
+    400018: Area7_2D.010
+    400020: Area7_2D.011
+    400022: Area7_2D.012
+    400024: Area7_2D.013
+    400026: Area7_2D.014
+    400028: Area7_2D.015
+    400030: Area7_2D.016
+    400032: //RootNode
+    400034: Edge
+    2300000: Area7_2D.001
+    2300002: Area7_2D.002
+    2300004: Area7_2D.003
+    2300006: Area7_2D.004
+    2300008: Area7_2D.005
+    2300010: Area7_2D.006
+    2300012: Area7_2D.007
+    2300014: Area7_2D.008
+    2300016: Area7_2D.009
+    2300018: Area7_2D.010
+    2300020: Area7_2D.011
+    2300022: Area7_2D.012
+    2300024: Area7_2D.013
+    2300026: Area7_2D.014
+    2300028: Area7_2D.015
+    2300030: Area7_2D.016
+    2300032: Edge
+    3300000: Area7_2D.001
+    3300002: Area7_2D.002
+    3300004: Area7_2D.003
+    3300006: Area7_2D.004
+    3300008: Area7_2D.005
+    3300010: Area7_2D.006
+    3300012: Area7_2D.007
+    3300014: Area7_2D.008
+    3300016: Area7_2D.009
+    3300018: Area7_2D.010
+    3300020: Area7_2D.011
+    3300022: Area7_2D.012
+    3300024: Area7_2D.013
+    3300026: Area7_2D.014
+    3300028: Area7_2D.015
+    3300030: Area7_2D.016
+    3300032: Edge
+    4300000: Area7_2D.016
+    4300002: Area7_2D.015
+    4300004: Area7_2D.014
+    4300006: Area7_2D.013
+    4300008: Area7_2D.012
+    4300010: Area7_2D.011
+    4300012: Area7_2D.010
+    4300014: Area7_2D.009
+    4300016: Area7_2D.008
+    4300018: Area7_2D.007
+    4300020: Area7_2D.006
+    4300022: Area7_2D.005
+    4300024: Area7_2D.004
+    4300026: Area7_2D.003
+    4300028: Area7_2D.002
+    4300030: Area7_2D.001
+    4300032: Edge
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
