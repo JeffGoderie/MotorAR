@@ -50,43 +50,8 @@ public class GestureDetection : MonoBehaviour {
 	private HandModel m_HandModel;
 
 
-	public ColoringScript currentSelected;
+    public ControllerScript controllerScript;
 
-
-	private void LeftMouseClick(){
-		//if(player.hud.MouseInBounds()) {
-		Debug.Log("1");
-		GameObject hitObject = FindHitObject();
-		if(hitObject){
-			ColoringScript script = hitObject.GetComponent<ColoringScript>();
-			if(script){
-				if(currentSelected){
-					currentSelected.setDeselected();
-				}
-				script.setSelected();
-				currentSelected = script;
-			}
-		}
-		//}
-	}
-
-	private void RightMouseClick(){
-		Debug.Log("2");
-		if(currentSelected){
-			Debug.Log("3");
-			currentSelected.color();
-		}
-	}
-
-	private GameObject FindHitObject() {
-		Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-		RaycastHit hit;
-		if(Physics.Raycast(ray, out hit)){
-			return hit.collider.gameObject;
-		}
-		return null;
-	}
-    
 
 	// Use this for initialization
 	void Start () {
@@ -123,6 +88,9 @@ public class GestureDetection : MonoBehaviour {
             {
                 m_PinchStarted = false;
                 Debug.Log("Color Switched!");
+                if(controllerScript){
+                    controllerScript.switchColor();
+                }
             }
 
                 Vector3 palmNormal = m_HandModel.GetPalmNormal ();
@@ -145,6 +113,9 @@ public class GestureDetection : MonoBehaviour {
             {
                 m_PalmRotationStarted = false;
                 Debug.Log("Animation Activate!");
+                if(controllerScript){
+                    controllerScript.startAnimation();
+                }
             }
 
                 m_PalmLight.transform.forward = palmNormal;

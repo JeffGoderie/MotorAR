@@ -20,7 +20,7 @@ public class PalmInteraction : MonoBehaviour {
 	void OnTriggerEnter(Collider col){
 		if (col.gameObject.name == "palm") {
 			numTaps++;
-			colorController.ColorIn();
+			colorController.colorIn();
 			Debug.Log ("Numver of Taps: " + numTaps);
 		}
 	}

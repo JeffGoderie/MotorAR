@@ -10,16 +10,19 @@ public class ColoringScript : MonoBehaviour {
 	private float gradientStepSize = 0.10f;
 
 	private string floatRangeProperty = "Pattern Specific";
+	private string colorProperty = "Output_Color";
     private float progress;
 
 	private Renderer renderer;
+
+	private bool started = false;
 
 	void Start(){
 		renderer = GetComponent<Renderer>();
 		progress = 0.25f;
 	}
 
-	public void color(){
+	public void color(Color color){
 		Debug.Log("4");
 		Debug.Log(renderer.sharedMaterial);
 		foreach(Material m in renderer.sharedMaterials){
@@ -27,6 +30,9 @@ public class ColoringScript : MonoBehaviour {
 			if (substance) {
 				progress = Math.Min(gradientStepSize + progress,1f);
 	            substance.SetProceduralFloat(floatRangeProperty, progress);
+				if(!started){
+					substance.SetProceduralColor(colorProperty, color);
+				}	            
 	            substance.RebuildTextures();
 	            break;
         	}
