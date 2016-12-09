@@ -30,10 +30,10 @@ public class ColoringScript : MonoBehaviour {
 			if (substance) {
 				progress = Math.Min(gradientStepSize + progress,1f);
 	            substance.SetProceduralFloat(floatRangeProperty, progress);
-				if(!started){
+				//if(!started){
 					substance.SetProceduralColor(colorProperty, color);
-					started = true;
-				}        
+					//started = true;
+				//}        
 	            substance.RebuildTextures();
 	            break;
         	}
