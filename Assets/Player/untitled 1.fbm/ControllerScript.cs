@@ -32,6 +32,13 @@ public class ControllerScript : MonoBehaviour {
 		if(drawingElements && !played){
 			played = true;
 			drawingElements.GetComponent<Animation>().Play("2D-3DAnimation");
+		
+			GameObject[] gameObjectArray = GameObject.FindGameObjectsWithTag ("UI");
+ 
+        	foreach(GameObject go in gameObjectArray)
+        	{
+            	go.SetActive (false);
+        	}
 		}
 	}
 
