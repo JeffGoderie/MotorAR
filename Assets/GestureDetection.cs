@@ -125,8 +125,10 @@ public class GestureDetection : MonoBehaviour {
                
 				float distanceToReference = (referenceObject.position - m_HandModel.GetPalmPosition ()).magnitude;
 
+			Debug.Log ("test test");
             if (DebugInfo)
             { 
+				Debug.Log ("yes yes");
                 Debug.Log("Pinch strength " + pinchStrength);
                 Debug.Log("ANGLE: " + palmAngle);
             Debug.Log("ROtation Angle" + m_HandModel.palm.transform.eulerAngles.z);
