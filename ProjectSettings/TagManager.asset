@@ -8,6 +8,11 @@ TagManager:
   - Character
   - Glove
   - Target
+  - Area1
+  - Area2
+  - Area3
+  - Area4
+  - Area5
   layers:
   - Default
   - TransparentFX
