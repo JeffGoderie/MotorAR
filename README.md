@@ -1,5 +1,7 @@
 # MotorAR
 
+**Due to issues with storing unity data on GitHub a zipped version of the project has been placed there as well, this is the one that should be downloaded in order to test or use it.**
+
 Latest builds can be found in the lastBuild Folder.
 
 There is a Feedback program where game data can be loaded. Game data is stored in the Data folder.
