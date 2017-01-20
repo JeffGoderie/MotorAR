@@ -1,6 +1,6 @@
 # MotorAR
 
-**Due to issues with storing unity data on GitHub a zipped version of the project has been placed there as well, this is the one that should be downloaded in order to test or use it.**
+**Due to issues with storing unity data on GitHub a zipped version of the project has been placed on dropbox (https://www.dropbox.com/s/uf5h6os7dhnrrm7/ChiroChroma.zip?dl=0), this is the one that should be downloaded in order to test or use it.**
 
 Latest builds can be found in the lastBuild Folder.
 
