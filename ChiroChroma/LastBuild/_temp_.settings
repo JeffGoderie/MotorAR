@@ -1,0 +1,30 @@
+Left:
+SliderControls: 1
+SliderThumb: 1
+SliderIndex: 1
+SliderMiddle: 1
+SliderRing: 1
+SliderPinky: 0
+ButtonControls: 1
+ButtonThumb: 0
+ButtonIndex: 0
+ButtonMiddle: 0
+ButtonRing: 0
+ButtonPinky: 0
+PinchClose: 0
+PinchOpen: 100
+Right:
+SliderControls: 1
+SliderThumb: 1
+SliderIndex: 0
+SliderMiddle: 0
+SliderRing: 1
+SliderPinky: 1
+ButtonControls: 1
+ButtonThumb: 0
+ButtonIndex: 0
+ButtonMiddle: 0
+ButtonRing: 0
+ButtonPinky: 0
+PinchClose: 5
+PinchOpen: 75

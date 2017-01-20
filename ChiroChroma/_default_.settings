@@ -1,0 +1,34 @@
+Left:
+SliderControls: 1
+SliderThumb: 1
+SliderIndex: 0
+SliderMiddle: 1
+SliderRing: 1
+SliderPinky: 1
+ButtonControls: 1
+ButtonThumb: 0
+ButtonIndex: 0
+ButtonMiddle: 0
+ButtonRing: 0
+ButtonPinky: 0
+PalmControls: 1
+PalmAngle: 40
+PinchClose: 0.03
+PinchOpen: 0.04047619
+Right:
+SliderControls: 1
+SliderThumb: 1
+SliderIndex: 0
+SliderMiddle: 1
+SliderRing: 1
+SliderPinky: 1
+ButtonControls: 1
+ButtonThumb: 0
+ButtonIndex: 0
+ButtonMiddle: 0
+ButtonRing: 0
+ButtonPinky: 0
+PalmControls: 1
+PalmAngle: 40
+PinchClose: 0.03
+PinchOpen: 0.0404252
